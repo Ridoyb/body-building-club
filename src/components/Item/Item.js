@@ -2,7 +2,7 @@ import React from 'react';
 import './Item.css'
 
 const Item = (props) => {
-    const {name, details, age, time, img}= props.item;
+    const {name, details, age, time, img, breaks}= props.item;
     // const {handleAddToList}=props;
     console.log(props)
     return (

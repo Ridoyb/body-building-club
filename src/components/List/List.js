@@ -1,10 +1,15 @@
 import React from 'react';
+import './List.css'
 
 const List = ({list}) => {
+    let totalTime=0;
+    for (const item of list) {
+        totalTime=totalTime + item.time;
+    }
     return (
-        <div>
+        <div className='list'>
             <h3>Exercise Details</h3>
-            <h4>Exercise time: {list.length}</h4>
+            <h4 className='exercise-time'>Exercise time: <span>{totalTime} mins</span></h4>
         </div>
     );
 };

@@ -1,0 +1,13 @@
+.list{
+    position: sticky;
+    top: 0;
+}
+
+.exercise-time{
+    border: 1px solid white;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: #bc9cd0;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+}
