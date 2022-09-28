@@ -1,0 +1,26 @@
+.item{
+    width: 300px;
+    height: 510px;
+    border: 1px solid #890CE5;
+    border-radius: 8px;
+}
+.item img{
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
+
+.item-name{
+    margin-top: 7px;
+}
+
+.item-info{
+    margin: 0 14px;
+
+}
+
+.item-info p{
+    margin-bottom: 0px;
+    margin-top: 0%;
+}
