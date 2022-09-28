@@ -3,6 +3,8 @@ import './Item.css'
 
 const Item = (props) => {
     const {name, details, age, time, img}= props.item;
+    // const {handleAddToList}=props;
+    console.log(props)
     return (
         <div className='item'>
             <img src={img} alt=""/>
@@ -13,7 +15,9 @@ const Item = (props) => {
                 <h5>Time: {time}</h5>
             </div>
 
-            <button className='btn-list'>Add To List</button>
+            <button onClick={() => props.handleAddToList(props.item)} className='btn-list'>
+                <p>Add To List</p>
+            </button>
         </div>
     );
 };
