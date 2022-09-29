@@ -3,8 +3,7 @@ import './Item.css'
 
 const Item = (props) => {
     const {name, details, age, time, img, breaks}= props.item;
-    // const {handleAddToList}=props;
-    console.log(props)
+    
     return (
         <div className='item'>
             <img src={img} alt=""/>
