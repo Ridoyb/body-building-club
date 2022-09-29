@@ -12,7 +12,7 @@ const Item = (props) => {
                 <h4 className='item-name'>{name}</h4>
                 <p>{details}</p>
                 <h5>For Age: {age}</h5>
-                <h5>Time: {time}</h5>
+                <h5>Time: {time} mins</h5>
             </div>
 
             <button onClick={() => props.handleAddToList(props.item)} className='btn-list'>

@@ -6,18 +6,22 @@
     justify-content: space-between;
     padding-left:140px;
     padding-right: 140px;
+    width: 100%;
     
+}
+
+.site-name{
+    display: flex;
+    align-items: center;
 }
 .header h1{
     color: #890CE5;
 }
-.header a{
-    text-decoration: none;
-    color: white;
-    font-size: 17px;
-    margin-left: 36px;
-}
 
-.header a:hover{
-    color: orange;
+.header img{
+    width: 40px;
+    height: 40px;
+}
+.select-exercise{
+    margin-bottom: 20px;
 }
