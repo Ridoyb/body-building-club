@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
     margin-top: 80px;
+    padding-bottom: 100px;
 }
 
 .items-container{
@@ -16,4 +17,6 @@
     background-color: #890CE5;
     color: white;
     padding-left: 20px;
+    padding-bottom: 100px;
 }
+

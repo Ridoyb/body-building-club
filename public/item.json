@@ -5,52 +5,46 @@
         "details": "Weights like dumbbells, rods, and barbells can be used to perform certain exercises which help you tone your body",
         "age": 20,
         "time": 30,
-        "breaks": 30,
         "img": "https://images.news18.com/ibnlive/uploads/2021/10/bicep-curls-steps-16347140023x2.jpg?impolicy=website&width=510&height=356"
     },
     {
         "id": "2",
-        "name": "ULTRABOOST 22 SHOES",
-        "details": "Addidas",
-        "age": 420,
-        "time": 20,
-        "breaks": 30,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "name": "Seated Chest Press",
+        "details": "The chest press helps build the pectoral muscles while also working the biceps, deltoids, and latissimus dorsi.",
+        "age": 22,
+        "time": 25,
+        "img": "https://www.verywellfit.com/thmb/FvJFQLJC6ZGaPsMFs53YdjPv9ss=/800x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3498292-GettyImages-1201544432-c0f8195580a64fed94c42a852fe87547.jpg"
     },
     {
         "id": "3",
-        "name": "ULTRABOOST 22 SHOES",
-        "details": "Addidas",
-        "age": 420,
-        "time": 20,
-        "breaks": 30,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "name": "Hammer Strength Machine",
+        "details": "The hammer strength machine chest press is a great exercise that works on several major group of muscles in your upper body.",
+        "age": 24,
+        "time": 15,
+        "img": "https://workouttrends.com/wp-content/uploads/2013/10/How-To-Do-Hammer-Strength-Machine-Chest-Press.jpg"
     },
     {
         "id": "4",
-        "name": "ULTRABOOST 22 SHOES",
-        "details": "Addidas",
-        "age": 420,
-        "time": 20,
-        "breaks": 30,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "name": "Hip Abductor Machine",
+        "details": "The Hip Abductor machine is one of the many fitness equipments you will encounter at the gym. ",
+        "age": 25,
+        "time": 25,
+        "img": "https://www.fitness-world.in/wp-content/uploads/2020/02/Hip-Abductor-Machine-1200x620.jpg"
     },
     {
         "id": "5",
-        "name": "ULTRABOOST 22 SHOES",
-        "details": "Addidas",
-        "age": 420,
+        "name": "Machine Lat Pulldown",
+        "details": "Machine lat pulldown is another excellent strength training exercise for developing back width if you lack the upper body...",
+        "age": 28,
         "time": 20,
-        "breaks": 30,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "img": "https://bodybuilding-wizard.com/wp-content/uploads/2018/07/machine-lat-pulldown-exercise-guide-image-768x476.jpg"
     },
     {
         "id": "6",
-        "name": "ULTRABOOST 22 SHOES",
-        "details": "Addidas",
-        "age": 420,
+        "name": "CHEST - Seated Pec Fly",
+        "details": "First pin a suitable lifting weight then adjust the seat height so that when you take position, the arc of your arms will be just below shoulder height.",
+        "age": 26,
         "time": 20,
-        "breaks": 30,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+        "img": "https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1492639173037-OGTEF55FJCOMWSMFV05H/Seated+Pec+Fly+Machine?format=500w"
     }
 ]

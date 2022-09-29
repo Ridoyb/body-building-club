@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Blog from '../Blog/Blog';
 import Item from '../Item/Item';
 import List from '../List/List';
 import './Main.css'
@@ -30,12 +31,15 @@ const Main = () => {
                         item={item}
                     ></Item>)
                 }
+
+                
             </div>
             <div className="list-container">
 
                 <List list={list}></List>
             </div>
         </div>
+    
     );
 };
 
