@@ -5,29 +5,29 @@ import './Main.css'
 
 const Main = () => {
 
-    const [items, SetItems]= useState([])
-    const [list, setList]= useState([]);
+    const [items, SetItems] = useState([])
+    const [list, setList] = useState([]);
 
-    useEffect( ()=> {
+    useEffect(() => {
         fetch('item.json')
-        .then(res=> res.json())
-        .then(data => SetItems(data))
+            .then(res => res.json())
+            .then(data => SetItems(data))
     }, []);
 
-    const handleAddToList= (item) => {
-        const newList= [...list,item];
+    const handleAddToList = (item) => {
+        const newList = [...list, item];
         setList(newList);
     }
 
     return (
         <div className='main-container'>
             <div className="items-container">
-                
+
                 {
-                    items.map(item=><Item
-                    key={item.id}
-                    handleAddToList={handleAddToList}
-                    item={item}
+                    items.map(item => <Item
+                        key={item.id}
+                        handleAddToList={handleAddToList}
+                        item={item}
                     ></Item>)
                 }
             </div>
